@@ -11,6 +11,7 @@
 </head>
 <body>
 <div class="ui container">
+  <div class="ui container">
   <div style="padding-left:20px; padding-right:20px; padding-top:75px;" class="ui left fixed vertical menu">
   <div class="item" style="padding-bottom:50px;">
     <img class="ui medium circular image" src="https://pbs.twimg.com/profile_images/905183271046193153/q_P1KBUJ_400x400.jpg">
@@ -27,12 +28,13 @@
 </div>
 <p></p>
 <p></p>
-
+  </div>
 <div class="ui container" style="padding:75px;">
     <div class="ui segment">
             <h2 style="padding-bottom:100px;">Spaghetti Punch</h2>
         
         <div class="ui cards">
+        <a href="pitch.md">
             <div class=" red card">
                 <div class="content">
                     <a class="header" style="padding-bottom:155px">
@@ -41,6 +43,7 @@
                 </div>
 
             </div>
+           </a>
             <div class=" blue card">
                 <div class="content">
                     <a class="header" style="padding-bottom:155px">
