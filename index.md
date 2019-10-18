@@ -24,8 +24,7 @@
       <br>
   <center><a class="item">Pitch</a></center>
       <br>
-  <center><a class="item" href="youtube.com"
-                    </a>>Design Process</a></center>
+  <center><a href="youtube.com" class="item">Design Process</a></center>
 </div>
 <p></p>
 <p></p>
