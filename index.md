@@ -24,7 +24,8 @@
       <br>
   <center><a class="item">Pitch</a></center>
       <br>
-  <center><a class="item">Design Process</a></center>
+  <center><a class="item" href="youtube.com"
+                    </a>>Design Process</a></center>
 </div>
 <p></p>
 <p></p>
@@ -49,8 +50,7 @@
                     <a class="header" style="padding-bottom:155px">
                         Pitch
                     </a>
-                    <a class= "body " href="https://wit-my.sharepoint.com/:p:/r/personal/20085012_wit_ie/_layouts/15/Doc.aspx?sourcedoc=%7B09028098-08A0-4461-981A-F7527735C30F%7D&file=GDA1_Laybrinth.pptx&action=edit&mobileredirect=true">
-                    </a>
+                 
                 </div>
 
             </div>
