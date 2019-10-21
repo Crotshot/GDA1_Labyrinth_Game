@@ -13,7 +13,7 @@
   <div class="item" style="padding-bottom:50px;">
     <img class="ui medium circular image" src="https://pbs.twimg.com/profile_images/905183271046193153/q_P1KBUJ_400x400.jpg">
   </div>
-  <center><a class="item" href="#">Index</a></center>
+  <center><a class="item" href="index.md">Index</a></center>
       <br>
   <center><a class="item" href="about.html">About</a></center>
       <br>
