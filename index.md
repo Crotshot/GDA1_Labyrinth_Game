@@ -3,7 +3,7 @@
 
 <html lang="en"><head>
 <head>
-<link rel="icon" href="images/icon.png">
+<link rel="icon" href="SpaghettiPunch.png">
 <title>Sphagetti Punch</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" type="text/css">
