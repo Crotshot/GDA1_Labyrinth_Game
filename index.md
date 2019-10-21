@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 
-<html lang="en"><head>
 <head>
 <link rel="icon" href="SpaghettiPunch.png">
 <title>Sphagetti Punch</title>
@@ -66,4 +64,4 @@
 
 
 </body>
-</html>
+
