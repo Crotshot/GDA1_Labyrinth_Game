@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 
 <html lang="en"><head>
 <head>
@@ -41,7 +40,6 @@
                         Design
                     </a>
                 </div>
-              </a>
             </div>
            
             <div class=" blue card">
@@ -67,4 +65,5 @@
 
 
 
-</body></html>
+</body>
+</html>
