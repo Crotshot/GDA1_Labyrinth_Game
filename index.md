@@ -1,4 +1,3 @@
-
 <head>
 <link rel="icon" href="SpaghettiPunch.png">
 <title>Sphagetti Punch</title>
