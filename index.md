@@ -23,7 +23,7 @@
              class="item" href="https://wit-my.sharepoint.com/:p:/r/personal/20085012_wit_ie/_layouts/15/Doc.aspx?sourcedoc=%7B09028098-              08A0-4461-981A-F7527735C30F%7D&file=GDA1_Laybrinth.pptx&action=edit&mobileredirect=true&cid=9c0c3eb5-0eeb-41a6-95ef-    154f93ac0412"
              >Pitch</a></center>
       <br>
-  <center><a href="storm.html">Design Process</a></center>
+  <center><a class="item" href="storm.html">Design Process</a></center>
 </div>
 
 <p></p>
