@@ -13,17 +13,17 @@
   <div class="item" style="padding-bottom:50px;">
     <img class="ui medium circular image" src="https://pbs.twimg.com/profile_images/905183271046193153/q_P1KBUJ_400x400.jpg">
   </div>
-  <center><a class="item">Index</a></center>
+  <center><a class="item" href="#">Index</a></center>
       <br>
   <center><a class="item" href="about.html">About</a></center>
       <br>
-  <center><a class="item">GDD</a></center>
+  <center><a class="item" href="gdd.html">GDD</a></center>
       <br>
   <center><a 
              class="item" href="https://wit-my.sharepoint.com/:p:/r/personal/20085012_wit_ie/_layouts/15/Doc.aspx?sourcedoc=%7B09028098-              08A0-4461-981A-F7527735C30F%7D&file=GDA1_Laybrinth.pptx&action=edit&mobileredirect=true&cid=9c0c3eb5-0eeb-41a6-95ef-    154f93ac0412"
              >Pitch</a></center>
       <br>
-  <center>Design Process</a></center>
+  <center><a href="storm.html">Design Process</a></center>
 </div>
 
 <p></p>
