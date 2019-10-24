@@ -18,9 +18,7 @@
       <br>
   <center><a class="item" href="gdd.html">GDD</a></center>
       <br>
-  <center><a 
-             class="item" href="pp.html"
-             >Pitch</a></center>
+  <center><a class="item" href="pp.html">Pitch</a></center>
       <br>
   <center><a class="item" href="storm.html">Design Process</a></center>
 </div>
